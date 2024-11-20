@@ -89,8 +89,8 @@ content_data = {
         ],
         'texts': [
             "불닭볶음면.",
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 첫 번째 텍스트 내용입니다."
+            "신라면",
+            "안성탕면"
         ]
     },
     labels[1]: {
@@ -105,9 +105,9 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
+            "불닭볶음면.",
             "신라면",
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "안성탕면"
         ]
     },
     labels[2]: {
@@ -122,9 +122,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "안성탕면",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "불닭볶음면.",
+            "신라면",
+            "안성탕면"
         ]
     }
 }
